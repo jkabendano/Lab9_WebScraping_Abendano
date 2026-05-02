@@ -5,5 +5,12 @@
         "temperature_min": "26.0",
         "temperature_max": "32.0",
         "condition": "Sunny"
+    },
+    {
+        "timestamp": "2026-05-02 22:24:38",
+        "city": "Manila",
+        "temperature_min": "26.0",
+        "temperature_max": "32.0",
+        "condition": "Sunny"
     }
 ]
